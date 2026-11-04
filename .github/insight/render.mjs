@@ -175,6 +175,18 @@ const CARDS = [
 ];
 
 await mkdir(OUT, { recursive: true });
+
+// Static panels (logo, lockup, text blocks) built by build_template.py. They
+// ship as images because GitAscii's importer strips text from ascii widgets.
+{
+  const { readdir, copyFile } = await import("node:fs/promises");
+  const staticDir = path.join(path.dirname(new URL(import.meta.url).pathname), "static");
+  const files = await readdir(staticDir).catch(() => []);
+  for (const f of files.filter((n) => n.endsWith(".svg"))) {
+    await copyFile(path.join(staticDir, f), path.join(OUT, f));
+  }
+  console.log(`ok   ${files.length} static panels`);
+}
 const unmapped = new Set();
 let failures = 0;
 
