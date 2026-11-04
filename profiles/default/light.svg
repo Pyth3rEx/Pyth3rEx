@@ -1,0 +1,1009 @@
+
+<svg width="800" height="2292" viewBox="0 0 800 2292" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    text {
+      user-select: none;
+    }
+
+    .gitascii-canvas-bg {
+      fill: #0d1117;
+      transition: fill 0.3s ease;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .gitascii-canvas-bg {
+        fill: #ffffff !important;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .gitascii-canvas-bg {
+        fill: #0d1117 !important;
+      }
+    }
+  </style>
+
+  <rect class="" width="800" height="2292" fill="#ffffff" rx="0" />
+
+  
+    <g transform="translate(0, 0)" id="widget-pyx_mark">
+
+      
+      
+      <rect class="" x="0" y="0" width="227" height="253" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="215" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="195" height="221" preserveAspectRatio="xMinYMin meet" viewBox="0 0 194.88 221"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><rect x="62.64" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="69.60" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="76.56" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="83.52" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="90.48" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="97.44" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="104.40" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="111.36" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="118.32" y="6.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="41.76" y="19.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="48.72" y="19.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="55.68" y="13.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="62.64" y="13.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="69.60" y="13.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="76.56" y="13.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="83.52" y="13.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="90.48" y="13.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="97.44" y="13.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="104.40" y="13.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="111.36" y="13.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="118.32" y="13.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="125.28" y="13.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="13.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="27.84" y="32.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="34.80" y="26.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="41.76" y="26.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="48.72" y="26.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="55.68" y="26.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="41.76" y="45.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="48.72" y="39.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="55.68" y="39.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="62.64" y="39.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="174.00" y="39.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="180.96" y="39.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="187.92" y="45.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="13.92" y="58.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="20.88" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="27.84" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="48.72" y="52.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="55.68" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="62.64" y="58.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="69.60" y="58.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="76.56" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="83.52" y="52.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="111.36" y="52.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="118.32" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="125.28" y="58.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="132.24" y="58.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="139.20" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="146.16" y="52.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="160.08" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="167.04" y="52.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="174.00" y="58.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="13.92" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="20.88" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="27.84" y="65.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="55.68" y="71.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="62.64" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="69.60" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="76.56" y="71.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="118.32" y="71.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="125.28" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="139.20" y="71.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="167.04" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="174.00" y="65.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="13.92" y="78.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="20.88" y="78.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="48.72" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="55.68" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="76.56" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="83.52" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="111.36" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="118.32" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="139.20" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="146.16" y="78.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="167.04" y="78.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="174.00" y="78.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="180.96" y="78.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="13.92" y="91.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="20.88" y="91.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="167.04" y="91.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="174.00" y="91.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="180.96" y="91.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="13.92" y="104.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="20.88" y="104.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="55.68" y="110.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="139.20" y="110.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="167.04" y="104.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="174.00" y="104.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="180.96" y="104.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="13.92" y="117.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="20.88" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="27.84" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="55.68" y="117.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="62.64" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="69.60" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="76.56" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="83.52" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="90.48" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="97.44" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="104.40" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="111.36" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="118.32" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="125.28" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="139.20" y="117.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="153.12" y="123.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="160.08" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="167.04" y="117.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="174.00" y="117.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="20.88" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="27.84" y="130.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="34.80" y="130.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="41.76" y="136.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="76.56" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="83.52" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="90.48" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="97.44" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="104.40" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="111.36" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="118.32" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="139.20" y="136.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="146.16" y="136.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="153.12" y="130.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="160.08" y="130.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="167.04" y="130.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="34.80" y="143.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="41.76" y="143.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="48.72" y="143.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="55.68" y="143.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="62.64" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="69.60" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="76.56" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="83.52" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="90.48" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="97.44" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="104.40" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="111.36" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="118.32" y="149.50" width="7.26" height="6.80" fill="#F213A0"/><rect x="125.28" y="143.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="143.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="139.20" y="143.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="146.16" y="143.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="153.12" y="143.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="48.72" y="156.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="55.68" y="156.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="62.64" y="156.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="69.60" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="76.56" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="83.52" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="90.48" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="97.44" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="104.40" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="111.36" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="118.32" y="156.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="125.28" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="156.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="125.28" y="169.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="169.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="125.28" y="182.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="182.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="118.32" y="195.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="125.28" y="195.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="132.24" y="195.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="139.20" y="195.00" width="7.26" height="13.30" fill="#F213A0"/><rect x="125.28" y="208.00" width="7.26" height="6.80" fill="#F213A0"/><rect x="132.24" y="208.00" width="7.26" height="6.80" fill="#F213A0"/></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(251, 14)" id="widget-pyx_lockup">
+
+      
+      
+      <rect class="" x="0" y="0" width="491" height="92" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="479" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="459" height="60" preserveAspectRatio="xMinYMin meet" viewBox="0 0 459.36 60"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><rect x="0.00" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="6.38" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="12.76" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="19.14" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="25.52" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="31.90" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="38.28" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="44.66" y="6.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="57.42" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="63.80" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="95.70" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="102.08" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="114.84" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="121.22" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="127.60" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="133.98" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="140.36" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="146.74" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="153.12" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="159.50" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="172.26" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="178.64" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="210.54" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="216.92" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="229.68" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="236.06" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="242.44" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="248.82" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="255.20" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="261.58" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="267.96" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="274.34" y="6.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="287.10" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="293.48" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="299.86" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="306.24" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="312.62" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="319.00" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="325.38" y="0.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="331.76" y="6.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="350.90" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="357.28" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="363.66" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="370.04" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="376.42" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="382.80" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="389.18" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="395.56" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="408.32" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="414.70" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="446.60" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="452.98" y="0.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="0.00" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="6.38" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="38.28" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="44.66" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="63.80" y="12.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="70.18" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="76.56" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="82.94" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="89.32" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="95.70" y="12.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="133.98" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="140.36" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="172.26" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="178.64" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="210.54" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="216.92" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="261.58" y="12.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="267.96" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="274.34" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="287.10" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="293.48" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="325.38" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="331.76" y="12.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="350.90" y="12.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="357.28" y="12.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="414.70" y="12.00" width="6.68" height="6.30" fill="#FF0033"/><rect x="421.08" y="12.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="427.46" y="12.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="433.84" y="12.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="440.22" y="12.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="446.60" y="12.00" width="6.68" height="6.30" fill="#FF0033"/><rect x="0.00" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="6.38" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="12.76" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="19.14" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="25.52" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="31.90" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="38.28" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="44.66" y="24.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="76.56" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="82.94" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="133.98" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="140.36" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="172.26" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="178.64" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="185.02" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="191.40" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="197.78" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="204.16" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="210.54" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="216.92" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="236.06" y="24.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="242.44" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="248.82" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="255.20" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="261.58" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="267.96" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="274.34" y="30.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="287.10" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="293.48" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="299.86" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="306.24" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="312.62" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="319.00" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="325.38" y="24.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="331.76" y="24.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="350.90" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="357.28" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="363.66" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="370.04" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="376.42" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="382.80" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="427.46" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="433.84" y="24.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="0.00" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="6.38" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="76.56" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="82.94" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="133.98" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="140.36" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="172.26" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="178.64" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="210.54" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="216.92" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="267.96" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="274.34" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="287.10" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="293.48" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="312.62" y="36.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="319.00" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="325.38" y="36.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="331.76" y="42.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="350.90" y="36.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="357.28" y="36.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="414.70" y="42.00" width="6.68" height="6.30" fill="#FF0033"/><rect x="421.08" y="36.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="427.46" y="36.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="433.84" y="36.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="440.22" y="36.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="446.60" y="42.00" width="6.68" height="6.30" fill="#FF0033"/><rect x="0.00" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="6.38" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="76.56" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="82.94" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="133.98" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="140.36" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="172.26" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="178.64" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="210.54" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="216.92" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="229.68" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="236.06" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="242.44" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="248.82" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="255.20" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="261.58" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="267.96" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="274.34" y="48.00" width="6.68" height="6.30" fill="#DFE4EA"/><rect x="287.10" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="293.48" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="325.38" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="331.76" y="48.00" width="6.68" height="12.30" fill="#DFE4EA"/><rect x="350.90" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="357.28" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="363.66" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="370.04" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="376.42" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="382.80" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="389.18" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="395.56" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="408.32" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="414.70" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="446.60" y="48.00" width="6.68" height="12.30" fill="#FF0033"/><rect x="452.98" y="48.00" width="6.68" height="12.30" fill="#FF0033"/></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(251, 110)" id="widget-pyx_descriptor">
+
+      
+      
+      <rect class="" x="0" y="0" width="408" height="104" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="396" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="376" height="72" preserveAspectRatio="xMinYMin meet" viewBox="0 0 376.42 72"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60" y="10.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">┌───────────────────┐</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60" y="22.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">│ RED TEAM OPERATOR │</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60" y="34.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">└───────────────────┘</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04" y="58.20" font-size="11" xml:space="preserve"><tspan fill="#DFE4EA">Physical · Social engineering · OSINT · Adversary emulation</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24" y="70.20" font-size="11" xml:space="preserve"><tspan fill="#7A8494">Access tested the way an adversary would take it.</tspan></text></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 261)" id="widget-pyx_about">
+
+      
+      
+      <rect class="" x="0" y="0" width="625" height="128" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="613" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="593" height="96" preserveAspectRatio="xMinYMin meet" viewBox="0 0 593.34 96"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66" y="10.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">00 </tspan><tspan fill="#DFE4EA">ABOUT</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32 414.70 421.08 427.46 433.84 440.22 446.60 452.98 459.36 465.74 472.12 478.50 484.88 491.26 497.64 504.02 510.40 516.78 523.16 529.54 535.92 542.30 548.68 555.06 561.44 567.82 574.20 580.58 586.96" y="34.20" font-size="11" xml:space="preserve"><tspan fill="#DFE4EA">Red team operator with field experience across physical, human and technical attack surfaces.</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32 414.70 421.08 427.46 433.84 440.22 446.60 452.98 459.36 465.74 472.12 478.50 484.88 491.26 497.64 504.02 510.40 516.78 523.16 529.54 535.92 542.30 548.68 555.06 561.44 567.82 574.20 580.58" y="46.20" font-size="11" xml:space="preserve"><tspan fill="#DFE4EA">I plan and run adversary-emulation engagements, lead small operator cells, and turn findings</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32 414.70 421.08 427.46 433.84 440.22 446.60 452.98 459.36 465.74 472.12 478.50 484.88 491.26 497.64 504.02 510.40 516.78 523.16 529.54 535.92 542.30 548.68 555.06 561.44 567.82 574.20" y="58.20" font-size="11" xml:space="preserve"><tspan fill="#DFE4EA">into reporting defenders can act on. Self-taught, and currently going deeper into low-level</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32 414.70 421.08 427.46 433.84 440.22 446.60 452.98 459.36 465.74 472.12 478.50 484.88 491.26 497.64 504.02 510.40 516.78 523.16" y="70.20" font-size="11" xml:space="preserve"><tspan fill="#DFE4EA">work: C, x86-64 assembly and reverse engineering, with a focus on malware analysis.</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32 414.70 421.08 427.46 433.84 440.22 446.60 452.98 459.36 465.74 472.12 478.50 484.88 491.26 497.64 504.02 510.40 516.78 523.16 529.54 535.92 542.30 548.68 555.06 561.44" y="94.20" font-size="11" xml:space="preserve"><tspan fill="#7A8494">This page: </tspan><tspan fill="#FF0033">01</tspan><tspan fill="#7A8494"> what I do  </tspan><tspan fill="#FF0033">02</tspan><tspan fill="#7A8494"> what I'm learning  </tspan><tspan fill="#FF0033">03</tspan><tspan fill="#7A8494"> live activity  </tspan><tspan fill="#FF0033">04</tspan><tspan fill="#7A8494"> public work  </tspan><tspan fill="#FF0033">05</tspan><tspan fill="#7A8494"> stack</tspan></text></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 397)" id="widget-pyx_capabilities">
+
+      
+      
+      <rect class="" x="0" y="0" width="428" height="152" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="416" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="396" height="120" preserveAspectRatio="xMinYMin meet" viewBox="0 0 395.56 120"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32" y="10.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">01 </tspan><tspan fill="#DFE4EA">CAPABILITIES</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90" y="34.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">■ </tspan><tspan fill="#DFE4EA">Red team operations     </tspan><tspan fill="#7A8494">planning, execution, reporting</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18" y="46.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">■ </tspan><tspan fill="#DFE4EA">Physical security       </tspan><tspan fill="#7A8494">perimeter, access-control assessment</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04" y="58.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">■ </tspan><tspan fill="#DFE4EA">Social engineering      </tspan><tspan fill="#7A8494">pretext design, awareness testing</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90" y="70.20" font-size="11" xml:space="preserve"><tspan fill="#33E62B">■ </tspan><tspan fill="#DFE4EA">OSINT &amp; reconnaissance  </tspan><tspan fill="#7A8494">exposure and footprint mapping</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18" y="82.20" font-size="11" xml:space="preserve"><tspan fill="#4A90FF">■ </tspan><tspan fill="#DFE4EA">Influence operations    </tspan><tspan fill="#7A8494">detection, counter-campaign analysis</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90" y="94.20" font-size="11" xml:space="preserve"><tspan fill="#7A8494">■ </tspan><tspan fill="#DFE4EA">Team lead               </tspan><tspan fill="#7A8494">runs red team cells end to end</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72" y="118.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">■ </tspan><tspan fill="#7A8494">offensive  </tspan><tspan fill="#33E62B">■ </tspan><tspan fill="#7A8494">passive  </tspan><tspan fill="#4A90FF">■ </tspan><tspan fill="#7A8494">forensic  </tspan><tspan fill="#F213A0">■ </tspan><tspan fill="#7A8494">reverse</tspan></text></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(444, 397)" id="widget-pyx_whoami">
+
+      
+      
+      <rect class="" x="0" y="0" width="356" height="202" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="344" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      <text x="12" y="18" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#2E323D">─</tspan><tspan fill="#FF0033"> pyth3rex@annixion </tspan><tspan fill="#2E323D">──────────────────────────</tspan></text>
+<text x="12" y="34" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Languages: </tspan><tspan fill="#2E323D">..........</tspan><tspan fill="#DFE4EA"> Python · C · asm · Nix</tspan></text>
+<text x="12" y="50" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Status: </tspan><tspan fill="#2E323D">.............</tspan><tspan fill="#DFE4EA"> Open to red team roles</tspan></text>
+<text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#2E323D">─</tspan><tspan fill="#FF0033"> Contact </tspan><tspan fill="#2E323D">────────────────────────────────────</tspan></text>
+<text x="12" y="90" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Website: </tspan><tspan fill="#2E323D">.......</tspan><tspan fill="#DFE4EA"> https://pyth3rex.github.io/</tspan></text>
+<text x="12" y="106" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. GitHub: </tspan><tspan fill="#2E323D">................</tspan><tspan fill="#DFE4EA"> github.com/Pyth3rEx</tspan></text>
+<text x="12" y="130" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#2E323D">─</tspan><tspan fill="#FF0033"> GitHub Stats </tspan><tspan fill="#2E323D">───────────────────────────────</tspan></text>
+<text x="12" y="146" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Repos: </tspan><tspan fill="#2E323D">.........</tspan><tspan fill="#FFD000"> 32</tspan><tspan fill="#2E323D"> | </tspan><tspan fill="#7A8494">. Stars: </tspan><tspan fill="#2E323D">.........</tspan><tspan fill="#FFD000"> 29</tspan></text>
+<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Commits: </tspan><tspan fill="#2E323D">...............................</tspan><tspan fill="#FFD000"> 903</tspan></text>
+  
+    </g>
+  
+
+    <g transform="translate(0, 607)" id="widget-pyx_research">
+
+      
+      
+      <rect class="" x="0" y="0" width="472" height="92" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="460" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="440" height="60" preserveAspectRatio="xMinYMin meet" viewBox="0 0 440.22 60"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10" y="10.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">02 </tspan><tspan fill="#DFE4EA">IN PROGRESS</tspan><tspan fill="#7A8494">  ·  malware analysis &amp; research</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94" y="34.20" font-size="11" xml:space="preserve"><tspan fill="#F213A0">■ </tspan><tspan fill="#DFE4EA">C                    </tspan><tspan fill="#7A8494">systems programming from first principles</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32" y="46.20" font-size="11" xml:space="preserve"><tspan fill="#F213A0">■ </tspan><tspan fill="#DFE4EA">x86-64 assembly      </tspan><tspan fill="#7A8494">reading compiled code, calling conventions</tspan></text><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32 414.70 421.08 427.46 433.84" y="58.20" font-size="11" xml:space="preserve"><tspan fill="#F213A0">■ </tspan><tspan fill="#DFE4EA">Reverse engineering  </tspan><tspan fill="#7A8494">static and dynamic analysis in an isolated lab</tspan></text></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 715)" id="widget-pyx_h03">
+
+      
+      
+      <rect class="" x="0" y="0" width="345" height="44" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="333" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="313" height="28" preserveAspectRatio="xMinYMin meet" viewBox="0 0 312.62 12"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24" y="10.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">03 </tspan><tspan fill="#DFE4EA">ACTIVITY</tspan><tspan fill="#7A8494">  ·  live from GitHub, refreshed daily</tspan></text></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 751)" id="widget-pyx_card03">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="475" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="788" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <style>
+.p0 { opacity: 0; animation: reveal 0.18s ease-out 1.15s forwards; }
+  .p1 { opacity: 0; animation: reveal 0.18s ease-out 1.27s forwards; }
+  .p2 { opacity: 0; animation: reveal 0.18s ease-out 1.39s forwards; }
+  .p3 { opacity: 0; animation: reveal 0.18s ease-out 1.51s forwards; }
+  .p4 { opacity: 0; animation: reveal 0.18s ease-out 1.63s forwards; }
+  .bar { opacity: 0; animation: reveal 0.18s ease-out 1.75s forwards; }
+  .typing-cursor { animation: hide-cursor 0.01s linear 1s forwards; }
+  @keyframes reveal { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes hide-cursor { to { opacity: 0; } }
+  
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; }
+    [clip-path] { clip-path: none !important; }
+    [class*="line-"], .log-row, .list-row, .p0, .p1, .p2, .p3, .p4, .bar { opacity: 1 !important; }
+    .typing-cursor { visibility: hidden !important; }
+    .cursor { visibility: visible !important; opacity: 1 !important; }
+  }
+</style>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub dashboard card for Pyth3rEx" x="16" y="16" width="768" height="443" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1029 594">
+<title>Pyth3rEx@annixion — zsh</title>
+<defs>
+
+<clipPath id="dashboard-command-typing-clip"><rect x="220.4" y="70" width="0" height="22"><animate attributeName="width" values="0;266.40000000000003" dur="1s" fill="freeze" /></rect></clipPath>
+</defs>
+<rect x="20" y="20" width="989" height="554" rx="10" fill="#0E0F13"/>
+<rect x="21" y="60" width="987" height="513" rx="0" fill="#0E0F13"/>
+<rect x="21" y="21" width="987" height="40" rx="8" fill="#1A1D24"/>
+
+    <rect x="32" y="39" width="10" height="2" fill="#7A8494" />
+    <rect x="52" y="35" width="10" height="10" fill="none" stroke="#7A8494" stroke-width="1.5" />
+    <path d="M72 35 L82 45 M82 35 L72 45" stroke="#FF0033" stroke-width="2" stroke-linecap="round" />
+  
+<text x="514.5" y="45" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">Pyth3rEx@annixion — zsh</text>
+<text x="44.0" y="86" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="134.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pyth3rEx@annixion</text>
+<text x="178.4" y="86" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7EBAE4" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ~</text>
+<text x="203.6" y="86" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">%</text>
+<text x="220.4" y="86" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="260.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#dashboard-command-typing-clip)">github-cli dash --user Pyth3rEx</text>
+<text class="typing-cursor" x="220.4" y="86" fill="#DFE4EA" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace">█<animate attributeName="x" values="220.4;482.80000000000007" dur="1s" fill="freeze" /></text>
+<g transform="translate(0 8.5)">
+<rect class="bar" x="21" y="532" width="987" height="17" fill="#FF0033"/>
+<text class="p0" x="44.0" y="103" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">┌─</text>
+<text class="p0" x="69.2" y="103" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0:profile</text>
+<text class="p0" x="153.2" y="103" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="277.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">────────────────────────────────┐</text>
+<text class="p1" x="430.4" y="103" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">┌─</text>
+<text class="p1" x="455.6" y="103" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1:stats</text>
+<text class="p1" x="522.8" y="103" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="462.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">──────────────────────────────────────────────────────┐</text>
+<text class="p0" x="44.0" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="170.0" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pyth3rEx</text>
+<text class="p0" x="237.2" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">@</text>
+<text class="p0" x="245.6" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">github</text>
+<text class="p0" x="422.0" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="430.4" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="455.6" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">\ /</text>
+<text class="p1" x="573.2" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">o-.</text>
+<text class="p1" x="707.6" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.-.</text>
+<text class="p1" x="850.4" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">|</text>
+<text class="p1" x="976.4" y="120" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="77.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">\   /</text>
+<text class="p0" x="170.0" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="126.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">---------------</text>
+<text class="p0" x="422.0" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="430.4" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="447.2" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">--*--</text>
+<text class="p1" x="497.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">29</text>
+<text class="p1" x="573.2" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" font-weight="700" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">|  o</text>
+<text class="p1" x="623.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">175</text>
+<text class="p1" x="699.2" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">( ! )</text>
+<text class="p1" x="749.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">132</text>
+<text class="p1" x="833.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">| |</text>
+<text class="p1" x="875.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">902</text>
+<text class="p1" x="976.4" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="86.0" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">\ /</text>
+<text class="p0" x="170.0" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Name</text>
+<text class="p0" x="203.6" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text class="p0" x="262.4" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Pyth3rEx</text>
+<text class="p0" x="422.0" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="430.4" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="455.6" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/ \</text>
+<text class="p1" x="497.6" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">stars</text>
+<text class="p1" x="573.2" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">o-&#39;</text>
+<text class="p1" x="623.6" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pull reqs</text>
+<text class="p1" x="707.6" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&#39;-&#39;</text>
+<text class="p1" x="749.6" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">issues</text>
+<text class="p1" x="825.2" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">||||</text>
+<text class="p1" x="875.6" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="92.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">contribs/yr</text>
+<text class="p1" x="976.4" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="94.4" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">X</text>
+<text class="p0" x="170.0" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Repos</text>
+<text class="p0" x="212.0" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text class="p0" x="262.4" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">32 public</text>
+<text class="p0" x="422.0" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="430.4" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="976.4" y="171" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="188" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="86.0" y="188" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/ \</text>
+<text class="p0" x="170.0" y="188" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Followers</text>
+<text class="p0" x="245.6" y="188" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text class="p0" x="262.4" y="188" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">13</text>
+<text class="p0" x="422.0" y="188" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p1" x="430.4" y="188" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="554.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">└────────────────────────────────────────────────────────────────┘</text>
+<text class="p0" x="44.0" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="77.6" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">/   \</text>
+<text class="p0" x="170.0" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stars</text>
+<text class="p0" x="212.0" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text class="p0" x="262.4" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">29 earned</text>
+<text class="p0" x="422.0" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="430.4" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">┌─</text>
+<text class="p2" x="455.6" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2:streak</text>
+<text class="p2" x="531.2" y="205" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="453.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">─────────────────────────────────────────────────────┐</text>
+<text class="p0" x="44.0" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="170.0" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Since</text>
+<text class="p0" x="212.0" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text class="p0" x="262.4" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">2017 (9y)</text>
+<text class="p0" x="422.0" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="430.4" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="472.4" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">(</text>
+<text class="p2" x="976.4" y="222" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="69.2" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">pyth3rex</text>
+<text class="p0" x="170.0" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="67.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Top lang</text>
+<text class="p0" x="237.2" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text class="p0" x="262.4" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lua</text>
+<text class="p0" x="422.0" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="430.4" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="464.0" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">) )</text>
+<text class="p2" x="514.4" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">current</text>
+<text class="p2" x="598.4" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">longest</text>
+<text class="p2" x="707.6" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">last 30 days</text>
+<text class="p2" x="976.4" y="239" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="170.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Uptime</text>
+<text class="p0" x="220.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
+<text class="p0" x="262.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4d streak</text>
+<text class="p0" x="422.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="430.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="455.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">( ( )</text>
+<text class="p2" x="514.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4 days</text>
+<text class="p2" x="598.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" font-weight="700" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12 days</text>
+<text class="p2" x="707.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁</text>
+<text class="p2" x="724.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▅</text>
+<text class="p2" x="732.8" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁▁▁</text>
+<text class="p2" x="766.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▂</text>
+<text class="p2" x="774.8" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁</text>
+<text class="p2" x="783.2" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▄</text>
+<text class="p2" x="791.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁▁</text>
+<text class="p2" x="816.8" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▇▄▆▂</text>
+<text class="p2" x="850.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁▁▁▁▁▁▁▁</text>
+<text class="p2" x="926.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█▂▆▃</text>
+<text class="p2" x="976.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="422.0" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="430.4" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="464.0" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">)_)</text>
+<text class="p2" x="707.6" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">30d ago</text>
+<text class="p2" x="917.6" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">today</text>
+<text class="p2" x="976.4" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="170.0" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="195.2" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="220.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#33E62B" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="245.6" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="270.8" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="296.0" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="321.2" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7EBAE4" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="346.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███</text>
+<text class="p0" x="422.0" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="430.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="455.6" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[___]</text>
+<text class="p2" x="514.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[</text>
+<text class="p2" x="522.8" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">#####</text>
+<text class="p2" x="564.8" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.........</text>
+<text class="p2" x="640.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">] 33% of best</text>
+<text class="p2" x="976.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="307" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="422.0" y="307" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="430.4" y="307" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p2" x="976.4" y="307" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p0" x="44.0" y="324" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="386.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">└────────────────────────────────────────────┘</text>
+<text class="p2" x="430.4" y="324" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="554.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">└────────────────────────────────────────────────────────────────┘</text>
+<text class="p3" x="44.0" y="341" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">┌─</text>
+<text class="p3" x="69.2" y="341" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="193.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3:graph · last 26 weeks</text>
+<text class="p3" x="270.8" y="341" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="386.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">─────────────────────────────────────────────┐</text>
+<text class="p4" x="657.2" y="341" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">┌─</text>
+<text class="p4" x="682.4" y="341" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4:langs</text>
+<text class="p4" x="749.6" y="341" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="235.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">───────────────────────────┐</text>
+<text class="p3" x="44.0" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="102.8" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">May</text>
+<text class="p3" x="170.0" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jun</text>
+<text class="p3" x="237.2" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Jul</text>
+<text class="p3" x="304.4" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Aug</text>
+<text class="p3" x="388.4" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sep</text>
+<text class="p3" x="455.6" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Oct</text>
+<text class="p3" x="648.8" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="976.4" y="358" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="102.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="119.6" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="136.4" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="153.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="170.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="186.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="220.4" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="237.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="254.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="270.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="338.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="354.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="371.6" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="422.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="438.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="472.4" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="489.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="522.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="648.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="674.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lua</text>
+<text class="p4" x="774.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="134.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">████████████████</text>
+<text class="p4" x="926.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">36%</text>
+<text class="p4" x="976.4" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="60.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Mon</text>
+<text class="p3" x="102.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="119.6" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="136.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="153.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="170.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="186.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="220.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="237.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="254.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="270.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="338.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="354.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="371.6" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="422.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="438.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="472.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="489.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="522.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="648.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="976.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="102.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="119.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="136.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="153.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="170.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="186.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="220.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="237.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="254.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="270.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="338.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="354.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="371.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="422.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="438.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="472.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="489.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="522.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="648.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="674.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Python</text>
+<text class="p4" x="774.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="134.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">████████████████</text>
+<text class="p4" x="926.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">36%</text>
+<text class="p4" x="976.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="60.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Wed</text>
+<text class="p3" x="102.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="119.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="136.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="153.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="170.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="186.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="220.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="237.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="254.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="270.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="338.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="354.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="371.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="422.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="438.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="472.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="489.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="522.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="648.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="976.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="102.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="119.6" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="136.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="153.2" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="170.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="186.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="220.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="237.2" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="254.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="270.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="338.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="354.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="371.6" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="422.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="438.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="472.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="489.2" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="648.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="674.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Nix</text>
+<text class="p4" x="774.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">████</text>
+<text class="p4" x="808.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">············</text>
+<text class="p4" x="934.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">9%</text>
+<text class="p4" x="976.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="60.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Fri</text>
+<text class="p3" x="102.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="119.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="136.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="153.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="170.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="186.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="220.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="237.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="254.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="270.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="338.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="354.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="371.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="422.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="438.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="472.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="489.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="648.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="976.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="102.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="119.6" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="136.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="153.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="170.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="186.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="220.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="237.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="254.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="270.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="338.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="354.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="371.6" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="422.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="438.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="472.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="489.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="648.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="674.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">HTML</text>
+<text class="p4" x="774.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">████</text>
+<text class="p4" x="808.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">············</text>
+<text class="p4" x="934.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">9%</text>
+<text class="p4" x="976.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="494" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="648.8" y="494" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="494" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="976.4" y="494" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="60.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="243.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">448 contributions in 26 weeks</text>
+<text class="p3" x="514.4" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">less</text>
+<text class="p3" x="556.4" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="564.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="573.2" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="581.6" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="590.0" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="606.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">more</text>
+<text class="p3" x="648.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="657.2" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p4" x="674.0" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Other</text>
+<text class="p4" x="774.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">████</text>
+<text class="p4" x="808.4" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">············</text>
+<text class="p4" x="934.4" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">9%</text>
+<text class="p4" x="976.4" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
+<text class="p3" x="44.0" y="528" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="613.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">└───────────────────────────────────────────────────────────────────────┘</text>
+<text class="p4" x="657.2" y="528" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="327.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">└─────────────────────────────────────┘</text>
+<text class="bar" x="44.0" y="545" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#0E0F13" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[dash]</text>
+<text class="bar" x="102.8" y="545" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#0E0F13" textLength="386.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0:profile* 1:stats  2:streak  3:graph  4:langs</text>
+<text class="bar" x="758.0" y="545" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#0E0F13" textLength="218.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;Pyth3rEx&quot; 13:39 04-Nov-26</text>
+</g>
+</svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1234)" id="widget-pyx_h04">
+
+      
+      
+      <rect class="" x="0" y="0" width="536" height="44" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="524" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="504" height="28" preserveAspectRatio="xMinYMin meet" viewBox="0 0 504.02 12"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30 229.68 236.06 242.44 248.82 255.20 261.58 267.96 274.34 280.72 287.10 293.48 299.86 306.24 312.62 319.00 325.38 331.76 338.14 344.52 350.90 357.28 363.66 370.04 376.42 382.80 389.18 395.56 401.94 408.32 414.70 421.08 427.46 433.84 440.22 446.60 452.98 459.36 465.74 472.12 478.50 484.88 491.26 497.64" y="10.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">04 </tspan><tspan fill="#DFE4EA">PUBLIC WORK</tspan><tspan fill="#7A8494">  ·  AnNIXion: reproducible NixOS offensive security distribution</tspan></text></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1270)" id="widget-pyx_card04">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="418" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="788" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <style>
+.line-fetch { opacity: 0; animation: show-fetch 2.1s linear forwards; }
+  .line-success { opacity: 0; animation: show-success 2.1s linear forwards; }
+  .line-card { opacity: 0; animation: show-card 2.1s linear forwards; }
+  .line-bottom { opacity: 0; animation: show-bottom 2.1s linear forwards; }
+  .cursor {
+    opacity: 1;
+    visibility: hidden;
+    animation: cursor-window 2.1s steps(1, end) forwards, blink 0.8s steps(1,end) infinite;
+  }
+  .typing-cursor {
+    opacity: 1;
+    animation: typing-cursor-window 2.1s steps(1, end) forwards;
+  }
+  @keyframes show-fetch { 0%, 47.1429% { opacity: 0; } 47.6190%, 100% { opacity: 1; } }
+  @keyframes show-success { 0%, 78.0952% { opacity: 0; } 78.5714%, 100% { opacity: 1; } }
+  @keyframes show-card { 0%, 85.2381% { opacity: 0; } 85.7143%, 100% { opacity: 1; } }
+  @keyframes show-bottom { 0%, 99.5238% { opacity: 0; } 100.0000%, 100% { opacity: 1; } }
+  @keyframes cursor-window { 0%, 99.5238% { visibility: hidden; } 100.0000%, 100% { visibility: visible; } }
+  @keyframes typing-cursor-window { 0%, 47.6190% { opacity: 1; } 48.0952%, 100% { opacity: 0; } }
+  @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+  
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; }
+    [clip-path] { clip-path: none !important; }
+    [class*="line-"], .log-row, .list-row, .p0, .p1, .p2, .p3, .p4, .bar { opacity: 1 !important; }
+    .typing-cursor { visibility: hidden !important; }
+    .cursor { visibility: visible !important; opacity: 1 !important; }
+  }
+</style>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub repository card for Pyth3rEx/AnNIXion" x="16" y="16" width="768" height="386" preserveAspectRatio="xMinYMin meet" viewBox="0 0 940 436">
+<title>Pyth3rEx@annixion — zsh</title>
+<defs>
+
+<clipPath id="repo-command-typing-clip"><rect x="223.40000000000003" y="70" width="0" height="22"><animate attributeName="width" values="0;285;285" keyTimes="0;0.476190;1" dur="2.1s" fill="freeze" /></rect></clipPath>
+<clipPath id="repo-fetch-typing-clip"><rect x="44" y="92" width="0" height="20"><animate attributeName="width" values="0;0;328.40000000000003;328.40000000000003" keyTimes="0;0.476190;0.761905;1" dur="2.1s" fill="freeze" /></rect></clipPath>
+</defs>
+<rect x="20" y="20" width="900" height="396" rx="10" fill="#0E0F13"/>
+<rect x="21" y="60" width="898" height="355" rx="0" fill="#0E0F13"/>
+<rect x="21" y="21" width="898" height="40" rx="8" fill="#1A1D24"/>
+
+    <rect x="32" y="39" width="10" height="2" fill="#7A8494" />
+    <rect x="52" y="35" width="10" height="10" fill="none" stroke="#7A8494" stroke-width="1.5" />
+    <path d="M72 35 L82 45 M82 35 L72 45" stroke="#FF0033" stroke-width="2" stroke-linecap="round" />
+  
+<text x="470" y="45" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">Pyth3rEx@annixion — zsh</text>
+<text x="44" y="86" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" xml:space="preserve" textLength="176.40000000000003" lengthAdjust="spacingAndGlyphs"><tspan fill="#FF0033">Pyth3rEx@annixion</tspan><tspan fill="#7EBAE4"> ~ </tspan><tspan fill="#DFE4EA">% </tspan></text>
+<text x="223.40000000000003" y="86" fill="#DFE4EA" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" clip-path="url(#repo-command-typing-clip)">gh repo view Pyth3rEx/AnNIXion</text>
+<text class="typing-cursor" x="223.40000000000003" y="86" fill="#DFE4EA" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace">█<animate attributeName="x" values="223.40000000000003;504.40000000000003;504.40000000000003" keyTimes="0;0.476190;1" dur="2.1s" fill="freeze" /></text>
+<g class="line-fetch">
+<text x="44" y="108" fill="#7A8494" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" clip-path="url(#repo-fetch-typing-clip)">Fetching repository Pyth3rEx/AnNIXion...</text>
+</g>
+<g class="line-success">
+<text x="44" y="128" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#FF0033">✔ </tspan><tspan fill="#DFE4EA">Success! Loaded repository &#39;Pyth3rEx/AnNIXion&#39;.</tspan></text>
+</g>
+<g class="line-card">
+<rect x="44" y="152" width="852" height="212" rx="12" fill="#0E0F13" stroke="#2E323D"/>
+<text x="68" y="188" font-size="20" font-weight="700" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">Pyth3rEx/</tspan><tspan fill="#FF0033">AnNIXion</tspan></text>
+<text x="872" y="187" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" text-anchor="end"><tspan fill="#FFD000">★ </tspan><tspan fill="#DFE4EA">4</tspan><tspan fill="#7A8494">   forks </tspan><tspan fill="#DFE4EA">1</tspan><tspan fill="#7A8494">   watch </tspan><tspan fill="#DFE4EA">0</tspan></text>
+<text x="68" y="216" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA">Offensive security linux distro based on NixOS and NIX ecosystem</text>
+<text x="68" y="250" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">language:</tspan><tspan x="148" fill="#7A8494">● </tspan><tspan fill="#DFE4EA">Nix 55.5%</tspan></text>
+<text x="336" y="250" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">license:</tspan><tspan x="416" fill="#DFE4EA">GPL-3.0</tspan></text>
+<text x="604" y="250" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">branch:</tspan><tspan x="684" fill="#4A90FF">main</tspan></text>
+<text x="68" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">release:</tspan><tspan x="148" fill="#FF0033">v0.4.3 · 1mo ago</tspan></text>
+<text x="336" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">pushed:</tspan><tspan x="416" fill="#DFE4EA">21h ago</tspan></text>
+<text x="604" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">open:</tspan><tspan x="684" fill="#DFE4EA">29 issues/PRs</tspan></text>
+<text x="68" y="304" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494">commit activity · last 52 weeks · 516 commits</text>
+<rect x="68.0" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="83.5" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="98.9" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="114.4" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="129.8" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="145.3" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="160.8" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="176.2" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="191.7" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="207.2" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="222.6" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="238.1" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="253.5" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="269.0" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="284.5" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="299.9" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="315.4" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="330.8" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="346.3" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="361.8" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="377.2" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="392.7" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="408.2" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="423.6" y="321" width="13.0" height="21" rx="1.5" fill="#BD0328"/>
+<rect x="439.1" y="326" width="13.0" height="16" rx="1.5" fill="#BD0328"/>
+<rect x="454.5" y="329" width="13.0" height="13" rx="1.5" fill="#3D0A16"/>
+<rect x="470.0" y="331" width="13.0" height="11" rx="1.5" fill="#3D0A16"/>
+<rect x="485.5" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="500.9" y="325" width="13.0" height="17" rx="1.5" fill="#BD0328"/>
+<rect x="516.4" y="324" width="13.0" height="18" rx="1.5" fill="#BD0328"/>
+<rect x="531.8" y="333" width="13.0" height="9" rx="1.5" fill="#3D0A16"/>
+<rect x="547.3" y="337" width="13.0" height="5" rx="1.5" fill="#3D0A16"/>
+<rect x="562.8" y="322" width="13.0" height="20" rx="1.5" fill="#BD0328"/>
+<rect x="578.2" y="316" width="13.0" height="26" rx="1.5" fill="#FF0033"/>
+<rect x="593.7" y="323" width="13.0" height="19" rx="1.5" fill="#BD0328"/>
+<rect x="609.2" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="624.6" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="640.1" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="655.5" y="335" width="13.0" height="7" rx="1.5" fill="#3D0A16"/>
+<rect x="671.0" y="317" width="13.0" height="25" rx="1.5" fill="#FF0033"/>
+<rect x="686.5" y="316" width="13.0" height="26" rx="1.5" fill="#FF0033"/>
+<rect x="701.9" y="321" width="13.0" height="21" rx="1.5" fill="#BD0328"/>
+<rect x="717.4" y="319" width="13.0" height="23" rx="1.5" fill="#FF0033"/>
+<rect x="732.8" y="326" width="13.0" height="16" rx="1.5" fill="#BD0328"/>
+<rect x="748.3" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="763.8" y="336" width="13.0" height="6" rx="1.5" fill="#3D0A16"/>
+<rect x="779.2" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="794.7" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="810.2" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="825.6" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="841.1" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="856.5" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+</g>
+<g class="line-bottom">
+<text x="44" y="392" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" xml:space="preserve" textLength="176.40000000000003" lengthAdjust="spacingAndGlyphs"><tspan fill="#FF0033">Pyth3rEx@annixion</tspan><tspan fill="#7EBAE4"> ~ </tspan><tspan fill="#DFE4EA">% </tspan></text>
+<text class="cursor" x="220.40000000000003" y="392" fill="#DFE4EA" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace">█</text>
+</g>
+</svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1696)" id="widget-pyx_h05">
+
+      
+      
+      <rect class="" x="0" y="0" width="262" height="44" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="250" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="230" height="28" preserveAspectRatio="xMinYMin meet" viewBox="0 0 229.68 12"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 6.38 12.76 19.14 25.52 31.90 38.28 44.66 51.04 57.42 63.80 70.18 76.56 82.94 89.32 95.70 102.08 108.46 114.84 121.22 127.60 133.98 140.36 146.74 153.12 159.50 165.88 172.26 178.64 185.02 191.40 197.78 204.16 210.54 216.92 223.30" y="10.20" font-size="11" xml:space="preserve"><tspan fill="#FF0033">05 </tspan><tspan fill="#DFE4EA">STACK</tspan><tspan fill="#7A8494">  ·  colour = AnNIXion class</tspan></text></g></svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1732)" id="widget-pyx_card05">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="445" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="788" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <style>
+.list-row { opacity: 0; animation: reveal 0.3s ease-out forwards; }
+  .cursor { visibility: hidden; animation: show 0s 1.71s forwards, blink 1s steps(1, end) 1.71s infinite; }
+  @keyframes reveal { to { opacity: 1; } }
+  @keyframes show { to { visibility: visible; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; }
+    [clip-path] { clip-path: none !important; }
+    [class*="line-"], .log-row, .list-row, .p0, .p1, .p2, .p3, .p4, .bar { opacity: 1 !important; }
+    .typing-cursor { visibility: hidden !important; }
+    .cursor { visibility: visible !important; opacity: 1 !important; }
+  }
+</style>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skills: C, Python, GNU Bash, NixOS, Linux, Kali Linux, Wireshark, Docker, Proxmox, Terraform, Ansible, Git" x="16" y="16" width="768" height="413" preserveAspectRatio="xMinYMin meet" viewBox="0 0 784 422">
+<title>Pyth3rEx@annixion — zsh</title>
+
+<clipPath id="skills-cmd"><rect x="238.84" y="56" width="0" height="22"><animate attributeName="width" from="0" to="115.2" dur="0.6s" fill="freeze"/></rect></clipPath>
+<rect width="784" height="422" rx="10" fill="#0E0F13"/>
+<rect x="1" y="36" width="782" height="385" fill="#0E0F13"/>
+<rect x="1" y="1" width="782" height="36" rx="8" fill="#1A1D24"/>
+
+    <rect x="12" y="19" width="10" height="2" fill="#7A8494" />
+    <rect x="32" y="15" width="10" height="10" fill="none" stroke="#7A8494" stroke-width="1.5" />
+    <path d="M52 15 L62 25 M62 15 L52 25" stroke="#FF0033" stroke-width="2" stroke-linecap="round" />
+  
+<text x="392" y="24" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">Pyth3rEx@annixion — zsh</text>
+<text x="32" y="72" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" xml:space="preserve" textLength="203.84" lengthAdjust="spacingAndGlyphs"><tspan fill="#FF0033">pyth3rex@annixion</tspan><tspan fill="#DFE4EA"> </tspan><tspan fill="#7EBAE4">~/ops</tspan><tspan fill="#DFE4EA"> ❯ </tspan></text>
+<text x="238.84" y="72" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" clip-path="url(#skills-cmd)">skills --list</text>
+<g class="list-row" style="animation-delay:0.75s">
+<path transform="translate(32 98) scale(5)" shape-rendering="crispEdges" fill="#F213A0" d="M7 0h7v1h-7zM5 1h11v1h-11zM4 2h13v1h-13zM3 3h15v1h-15zM2 4h16v1h-16zM2 5h7v1h-7zM13 5h6v1h-6zM1 6h7v1h-7zM13 6h6v1h-6zM1 7h6v1h-6zM14 7h5v1h-5zM1 8h6v1h-6zM1 9h6v1h-6zM1 10h6v1h-6zM1 11h6v1h-6zM1 12h6v1h-6zM14 12h2v1h-2zM1 13h7v1h-7zM13 13h6v1h-6zM2 14h6v1h-6zM13 14h6v1h-6zM2 15h16v1h-16zM3 16h15v1h-15zM4 17h13v1h-13zM5 18h11v1h-11zM7 19h7v1h-7z"/>
+<text x="82" y="216" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">c</text>
+</g>
+<g class="list-row" style="animation-delay:0.81s">
+<path transform="translate(156 98) scale(5)" shape-rendering="crispEdges" fill="#DFE4EA" d="M6 0h7v1h-7zM5 1h10v1h-10zM5 2h1v1h-1zM8 2h7v1h-7zM5 3h10v1h-10zM6 4h9v1h-9zM2 5h16v1h-16zM1 6h18v1h-18zM0 7h20v1h-20zM0 8h20v1h-20zM0 9h13v1h-13zM15 9h5v1h-5zM0 10h5v1h-5zM7 10h13v1h-13zM0 11h20v1h-20zM0 12h20v1h-20zM1 13h18v1h-18zM1 14h17v1h-17zM5 15h9v1h-9zM5 16h10v1h-10zM5 17h7v1h-7zM14 17h1v1h-1zM5 18h10v1h-10zM7 19h7v1h-7z"/>
+<text x="206" y="216" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">python</text>
+</g>
+<g class="list-row" style="animation-delay:0.87s">
+<path transform="translate(280 98) scale(5)" shape-rendering="crispEdges" fill="#DFE4EA" d="M9 0h2v1h-2zM7 1h1v1h-1zM12 1h1v1h-1zM5 2h1v1h-1zM14 2h1v1h-1zM2 4h1v1h-1zM17 4h1v1h-1zM1 5h1v1h-1zM17 5h2v1h-2zM16 6h3v1h-3zM14 7h5v1h-5zM12 8h7v1h-7zM11 9h8v1h-8zM10 10h9v1h-9zM10 11h2v1h-2zM13 11h6v1h-6zM10 12h9v1h-9zM10 13h1v1h-1zM13 13h6v1h-6zM1 14h1v1h-1zM10 14h9v1h-9zM2 15h1v1h-1zM10 15h2v1h-2zM13 15h5v1h-5zM10 16h7v1h-7zM5 17h1v1h-1zM10 17h5v1h-5zM7 18h1v1h-1zM10 18h3v1h-3zM9 19h3v1h-3z"/>
+<text x="330" y="216" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">gnu bash</text>
+</g>
+<g class="list-row" style="animation-delay:0.93s">
+<path transform="translate(404 98) scale(5)" shape-rendering="crispEdges" fill="#7EBAE4" d="M5 1h1v1h-1zM9 1h2v1h-2zM14 1h1v1h-1zM5 2h2v1h-2zM10 2h2v1h-2zM13 2h2v1h-2zM5 3h2v1h-2zM10 3h5v1h-5zM5 4h3v1h-3zM10 4h4v1h-4zM3 5h11v1h-11zM3 6h8v1h-8zM12 6h2v1h-2zM16 6h2v1h-2zM5 7h2v1h-2zM13 7h5v1h-5zM5 8h2v1h-2zM13 8h4v1h-4zM0 9h6v1h-6zM14 9h6v1h-6zM0 10h6v1h-6zM14 10h6v1h-6zM3 11h4v1h-4zM13 11h2v1h-2zM2 12h5v1h-5zM13 12h2v1h-2zM2 13h2v1h-2zM6 13h2v1h-2zM9 13h8v1h-8zM6 14h11v1h-11zM6 15h4v1h-4zM12 15h3v1h-3zM5 16h5v1h-5zM13 16h2v1h-2zM5 17h2v1h-2zM8 17h2v1h-2zM13 17h2v1h-2zM5 18h1v1h-1zM9 18h2v1h-2zM14 18h1v1h-1z"/>
+<text x="454" y="216" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">nixos</text>
+</g>
+<g class="list-row" style="animation-delay:0.99s">
+<path transform="translate(528 98) scale(5)" shape-rendering="crispEdges" fill="#DFE4EA" d="M8 0h4v1h-4zM8 1h5v1h-5zM7 2h6v1h-6zM7 3h1v1h-1zM9 3h1v1h-1zM12 3h1v1h-1zM7 4h2v1h-2zM10 4h3v1h-3zM7 5h1v1h-1zM12 5h1v1h-1zM7 6h1v1h-1zM12 6h2v1h-2zM7 7h1v1h-1zM12 7h2v1h-2zM6 8h2v1h-2zM13 8h2v1h-2zM5 9h2v1h-2zM13 9h3v1h-3zM5 10h2v1h-2zM14 10h2v1h-2zM4 11h2v1h-2zM14 11h3v1h-3zM4 12h2v1h-2zM14 12h3v1h-3zM4 13h2v1h-2zM13 13h4v1h-4zM6 14h1v1h-1zM14 14h1v1h-1zM6 15h2v1h-2zM7 16h1v1h-1zM11 17h2v1h-2zM8 18h4v1h-4z"/>
+<text x="578" y="216" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">linux</text>
+</g>
+<g class="list-row" style="animation-delay:1.05s">
+<path transform="translate(652 98) scale(5)" shape-rendering="crispEdges" fill="#FF0033" d="M10 4h1v1h-1zM11 6h3v1h-3zM10 7h1v1h-1zM15 7h2v1h-2zM10 8h1v1h-1zM17 8h1v1h-1zM10 9h1v1h-1zM10 10h1v1h-1zM11 11h5v1h-5zM16 12h2v1h-2z"/>
+<text x="702" y="216" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">kali linux</text>
+</g>
+<g class="list-row" style="animation-delay:1.11s">
+<path transform="translate(32 238) scale(5)" shape-rendering="crispEdges" fill="#4A90FF" d="M1 0h18v1h-18zM0 1h1v1h-1zM19 1h1v1h-1zM0 2h1v1h-1zM19 2h1v1h-1zM0 3h1v1h-1zM19 3h1v1h-1zM0 4h1v1h-1zM13 4h2v1h-2zM19 4h1v1h-1zM0 5h1v1h-1zM10 5h5v1h-5zM19 5h1v1h-1zM0 6h1v1h-1zM9 6h1v1h-1zM13 6h1v1h-1zM19 6h1v1h-1zM0 7h1v1h-1zM8 7h1v1h-1zM13 7h1v1h-1zM19 7h1v1h-1zM0 8h1v1h-1zM7 8h1v1h-1zM13 8h1v1h-1zM19 8h1v1h-1zM0 9h1v1h-1zM6 9h2v1h-2zM13 9h1v1h-1zM19 9h1v1h-1zM0 10h1v1h-1zM6 10h1v1h-1zM13 10h1v1h-1zM19 10h1v1h-1zM0 11h1v1h-1zM6 11h1v1h-1zM13 11h1v1h-1zM19 11h1v1h-1zM0 12h1v1h-1zM5 12h1v1h-1zM13 12h1v1h-1zM19 12h1v1h-1zM0 13h1v1h-1zM5 13h1v1h-1zM13 13h2v1h-2zM19 13h1v1h-1zM0 14h6v1h-6zM14 14h6v1h-6zM0 15h1v1h-1zM19 15h1v1h-1zM0 16h1v1h-1zM19 16h1v1h-1zM0 17h1v1h-1zM19 17h1v1h-1zM0 18h1v1h-1zM19 18h1v1h-1zM1 19h18v1h-18z"/>
+<text x="82" y="356" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">wireshark</text>
+</g>
+<g class="list-row" style="animation-delay:1.17s">
+<path transform="translate(156 238) scale(5)" shape-rendering="crispEdges" fill="#7A8494" d="M9 3h2v1h-2zM9 4h2v1h-2zM4 5h7v1h-7zM4 6h7v1h-7zM15 6h2v1h-2zM2 7h4v1h-4zM7 7h1v1h-1zM9 7h2v1h-2zM12 7h1v1h-1zM15 7h2v1h-2zM2 8h12v1h-12zM15 8h5v1h-5zM2 9h17v1h-17zM0 10h17v1h-17zM0 11h16v1h-16zM0 12h16v1h-16zM0 13h15v1h-15zM1 14h13v1h-13zM2 15h11v1h-11zM3 16h8v1h-8z"/>
+<text x="206" y="356" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">docker</text>
+</g>
+<g class="list-row" style="animation-delay:1.23s">
+<path transform="translate(280 238) scale(5)" shape-rendering="crispEdges" fill="#7A8494" d="M4 1h3v1h-3zM13 1h3v1h-3zM4 2h4v1h-4zM12 2h4v1h-4zM1 3h2v1h-2zM4 3h5v1h-5zM11 3h5v1h-5zM17 3h1v1h-1zM0 4h15v1h-15zM16 4h4v1h-4zM1 5h18v1h-18zM2 6h4v1h-4zM7 6h6v1h-6zM14 6h4v1h-4zM3 7h4v1h-4zM8 7h4v1h-4zM13 7h4v1h-4zM4 8h4v1h-4zM9 8h2v1h-2zM12 8h4v1h-4zM4 9h5v1h-5zM11 9h5v1h-5zM4 10h5v1h-5zM11 10h5v1h-5zM4 11h4v1h-4zM9 11h2v1h-2zM12 11h4v1h-4zM3 12h4v1h-4zM8 12h4v1h-4zM13 12h4v1h-4zM2 13h4v1h-4zM7 13h6v1h-6zM14 13h4v1h-4zM1 14h18v1h-18zM0 15h20v1h-20zM1 16h2v1h-2zM4 16h5v1h-5zM11 16h5v1h-5zM17 16h2v1h-2zM4 17h4v1h-4zM12 17h4v1h-4zM4 18h3v1h-3zM13 18h3v1h-3z"/>
+<text x="330" y="356" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">proxmox</text>
+</g>
+<g class="list-row" style="animation-delay:1.29s">
+<path transform="translate(404 238) scale(5)" shape-rendering="crispEdges" fill="#7A8494" d="M1 0h1v1h-1zM1 1h3v1h-3zM1 2h5v1h-5zM1 3h6v1h-6zM1 4h8v1h-8zM17 4h2v1h-2zM1 5h10v1h-10zM15 5h4v1h-4zM2 6h10v1h-10zM14 6h5v1h-5zM3 7h16v1h-16zM5 8h14v1h-14zM7 9h12v1h-12zM8 10h10v1h-10zM7 11h2v1h-2zM10 11h6v1h-6zM7 12h4v1h-4zM12 12h2v1h-2zM7 13h5v1h-5zM7 14h6v1h-6zM7 15h6v1h-6zM7 16h6v1h-6zM8 17h5v1h-5zM10 18h3v1h-3zM12 19h1v1h-1z"/>
+<text x="454" y="356" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">terraform</text>
+</g>
+<g class="list-row" style="animation-delay:1.35s">
+<path transform="translate(528 238) scale(5)" shape-rendering="crispEdges" fill="#7A8494" d="M7 0h6v1h-6zM5 1h10v1h-10zM3 2h14v1h-14zM2 3h16v1h-16zM2 4h8v1h-8zM11 4h7v1h-7zM1 5h8v1h-8zM11 5h8v1h-8zM1 6h8v1h-8zM12 6h7v1h-7zM0 7h8v1h-8zM10 7h1v1h-1zM12 7h8v1h-8zM0 8h8v1h-8zM9 8h2v1h-2zM12 8h8v1h-8zM0 9h8v1h-8zM9 9h3v1h-3zM13 9h7v1h-7zM0 10h7v1h-7zM10 10h2v1h-2zM13 10h7v1h-7zM0 11h7v1h-7zM8 11h1v1h-1zM11 11h1v1h-1zM14 11h6v1h-6zM0 12h6v1h-6zM8 12h3v1h-3zM14 12h6v1h-6zM1 13h5v1h-5zM7 13h5v1h-5zM14 13h5v1h-5zM1 14h4v1h-4zM7 14h6v1h-6zM15 14h4v1h-4zM2 15h16v1h-16zM2 16h16v1h-16zM3 17h14v1h-14zM5 18h10v1h-10zM7 19h6v1h-6z"/>
+<text x="578" y="356" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">ansible</text>
+</g>
+<g class="list-row" style="animation-delay:1.41s">
+<path transform="translate(652 238) scale(5)" shape-rendering="crispEdges" fill="#7A8494" d="M9 0h2v1h-2zM8 1h4v1h-4zM8 2h5v1h-5zM6 3h1v1h-1zM9 3h5v1h-5zM5 4h3v1h-3zM10 4h5v1h-5zM4 5h5v1h-5zM11 5h5v1h-5zM3 6h6v1h-6zM12 6h5v1h-5zM2 7h7v1h-7zM13 7h5v1h-5zM1 8h8v1h-8zM11 8h1v1h-1zM14 8h5v1h-5zM0 9h9v1h-9zM11 9h2v1h-2zM16 9h4v1h-4zM0 10h9v1h-9zM11 10h2v1h-2zM16 10h4v1h-4zM1 11h8v1h-8zM11 11h3v1h-3zM15 11h4v1h-4zM2 12h7v1h-7zM11 12h7v1h-7zM3 13h6v1h-6zM11 13h6v1h-6zM4 14h5v1h-5zM12 14h4v1h-4zM5 15h4v1h-4zM11 15h4v1h-4zM6 16h8v1h-8zM7 17h6v1h-6zM8 18h4v1h-4zM9 19h2v1h-2z"/>
+<text x="702" y="356" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" text-anchor="middle">git</text>
+</g>
+<text x="32" y="396" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" xml:space="preserve" textLength="203.84" lengthAdjust="spacingAndGlyphs"><tspan fill="#FF0033">pyth3rex@annixion</tspan><tspan fill="#DFE4EA"> </tspan><tspan fill="#7EBAE4">~/ops</tspan><tspan fill="#DFE4EA"> ❯ </tspan></text>
+<text class="cursor" x="235.84" y="396" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA">█</text>
+</svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 2185)" id="widget-pyx_links">
+
+      
+      
+      
+      
+      
+    <svg width="800" height="40" viewBox="0 0 800 48" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        
+    <linearGradient id="grad-pill-github-292-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"></stop>
+<stop offset="10%" stop-color="#111111"></stop>
+<stop offset="50%" stop-color="#eeeeee"></stop>
+<stop offset="60%" stop-color="#ffffff"></stop>
+<stop offset="80%" stop-color="#111111"></stop>
+<stop offset="100%" stop-color="#555555"></stop>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+  
+
+    <linearGradient id="grad-pill-github-406-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"></stop>
+<stop offset="10%" stop-color="#111111"></stop>
+<stop offset="50%" stop-color="#eeeeee"></stop>
+<stop offset="60%" stop-color="#ffffff"></stop>
+<stop offset="80%" stop-color="#111111"></stop>
+<stop offset="100%" stop-color="#555555"></stop>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+  
+      </defs>
+      <g>
+        
+    <g id="pill-github-292-2">
+      <!-- Outer rotating gradient border -->
+      <rect x="292" y="2" width="102" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-github-292-2)" stroke-width="1.8" />
+
+      <!-- Dark container background with subtle glow -->
+      <rect x="293" y="3" width="100" height="42" rx="21" ry="21" fill="#141414" />
+
+      <!-- Inner highlight layer -->
+      <rect x="293" y="3" width="100" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)" />
+
+      <!-- Icon & Text Content -->
+      <g transform="translate(306, 15) scale(1)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+          <path fill="#ffffff" fill-rule="evenodd" clip-rule="evenodd" d="M9 1.5C4.858 1.5 1.5 4.858 1.5 9c0 3.314 2.149 6.126 5.13 7.12.375.068.513-.163.513-.361v-1.266c-2.087.454-2.527-.946-2.527-.946-.341-.867-.833-1.098-.833-1.098-.681-.466.052-.456.052-.456.753.053 1.15.773 1.15.773.67 1.147 1.756.816 2.184.624.068-.485.262-.816.476-1.003-1.666-.19-3.418-.833-3.418-3.708 0-.819.292-1.488.773-2.013-.078-.19-.335-.952.073-1.986 0 0 .63-.202 2.063.769.598-.166 1.24-.249 1.878-.252.637.003 1.279.086 1.878.252 1.432-.971 2.061-.769 2.061-.769.41 1.034.153 1.796.075 1.986.482.525.772 1.194.772 2.013 0 2.883-1.755 3.515-3.426 3.702.27.233.51.691.51 1.393v2.065c0 .201.136.433.517.359C14.354 15.122 16.5 12.312 16.5 9c0-4.142-3.358-7.5-7.5-7.5z"/>
+        </svg>
+      </g>
+      <text x="332" y="29" text-anchor="start" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2">GitHub</text>
+    </g>
+  
+
+    <g id="pill-github-406-2">
+      <!-- Outer rotating gradient border -->
+      <rect x="406" y="2" width="102" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-github-406-2)" stroke-width="1.8" />
+
+      <!-- Dark container background with subtle glow -->
+      <rect x="407" y="3" width="100" height="42" rx="21" ry="21" fill="#141414" />
+
+      <!-- Inner highlight layer -->
+      <rect x="407" y="3" width="100" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)" />
+
+      <!-- Icon & Text Content -->
+      <g transform="translate(420, 15) scale(1)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+          <path fill="#ffffff" fill-rule="evenodd" clip-rule="evenodd" d="M9 1.5C4.858 1.5 1.5 4.858 1.5 9c0 3.314 2.149 6.126 5.13 7.12.375.068.513-.163.513-.361v-1.266c-2.087.454-2.527-.946-2.527-.946-.341-.867-.833-1.098-.833-1.098-.681-.466.052-.456.052-.456.753.053 1.15.773 1.15.773.67 1.147 1.756.816 2.184.624.068-.485.262-.816.476-1.003-1.666-.19-3.418-.833-3.418-3.708 0-.819.292-1.488.773-2.013-.078-.19-.335-.952.073-1.986 0 0 .63-.202 2.063.769.598-.166 1.24-.249 1.878-.252.637.003 1.279.086 1.878.252 1.432-.971 2.061-.769 2.061-.769.41 1.034.153 1.796.075 1.986.482.525.772 1.194.772 2.013 0 2.883-1.755 3.515-3.426 3.702.27.233.51.691.51 1.393v2.065c0 .201.136.433.517.359C14.354 15.122 16.5 12.312 16.5 9c0-4.142-3.358-7.5-7.5-7.5z"/>
+        </svg>
+      </g>
+      <text x="446" y="29" text-anchor="start" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2">GitHub</text>
+    </g>
+  
+      </g>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 2233)" id="widget-pyx_footer">
+
+      
+      
+      <rect class="" x="0" y="0" width="525" height="43" fill="#0E0F13" stroke="#2E323D" stroke-width="1" rx="0" />
+      
+      <text x="6" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+      <text x="513" y="14" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FF0033">+</text>
+    
+      
+    
+    <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" x="16" y="16" width="493" height="28" preserveAspectRatio="xMinYMin meet" viewBox="0 0 493.00 11"><g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',Menlo,monospace"><text x="0.00 5.80 11.60 17.40 23.20 29.00 34.80 40.60 46.40 52.20 58.00 63.80 69.60 75.40 81.20 87.00 92.80 98.60 104.40 110.20 116.00 121.80 127.60 133.40 139.20 145.00 150.80 156.60 162.40 168.20 174.00 179.80 185.60 191.40 197.20 203.00 208.80 214.60 220.40 226.20 232.00 237.80 243.60 249.40 255.20 261.00 266.80 272.60 278.40 284.20 290.00 295.80 301.60 307.40 313.20 319.00 324.80 330.60 336.40 342.20 348.00 353.80 359.60 365.40 371.20 377.00 382.80 388.60 394.40 400.20 406.00 411.80 417.60 423.40 429.20 435.00 440.80 446.60 452.40 458.20 464.00 469.80 475.60 481.40 487.20" y="9.35" font-size="10" xml:space="preserve"><tspan fill="#2E323D">── </tspan><tspan fill="#7A8494">Client and operational work stays private. Public work: tooling, research, method.</tspan></text></g></svg>
+  
+  
+    </g>
+  
+</svg>

@@ -1,0 +1,353 @@
+{
+  "username": "Pyth3rEx",
+  "widgets": [
+    {
+      "instanceId": "pyx_mark",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 227,
+        "height": 253
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/mark.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "pyx_lockup",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 251,
+        "y": 14
+      },
+      "size": {
+        "width": 491,
+        "height": 92
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/lockup.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "pyx_descriptor",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 251,
+        "y": 110
+      },
+      "size": {
+        "width": 408,
+        "height": 104
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/descriptor.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "pyx_about",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 261
+      },
+      "size": {
+        "width": 625,
+        "height": 128
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/about.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "pyx_capabilities",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 397
+      },
+      "size": {
+        "width": 428,
+        "height": 152
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/capabilities.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "pyx_whoami",
+      "widgetId": "terminal-info",
+      "position": {
+        "x": 444,
+        "y": 397
+      },
+      "size": {
+        "width": 356,
+        "height": 202
+      },
+      "config": {
+        "customTitle": "pyth3rex@annixion",
+        "headerColor": "#FF0033",
+        "labelColor": "#7A8494",
+        "valueColor": "#DFE4EA",
+        "statsValColor": "#FFD000",
+        "dividerColor": "#2E323D",
+        "dotColor": "#2E323D",
+        "dotLeaders": true,
+        "showUptime": false,
+        "showLocation": false,
+        "showCompany": false,
+        "showJoined": false,
+        "showLanguages": true,
+        "customLanguages": "Python · C · asm · Nix",
+        "showStatus": true,
+        "customStatus": "Open to red team roles",
+        "showContactSection": true,
+        "showWebsite": true,
+        "showGithub": true,
+        "showEmail": false,
+        "showTwitter": false,
+        "showOrgs": false,
+        "showPronouns": false,
+        "showTimezone": false,
+        "showStatsSection": true,
+        "showRepos": true,
+        "showStars": true,
+        "showCommits": true,
+        "showFollowers": false,
+        "showFollowing": false,
+        "showGists": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "pyx_research",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 607
+      },
+      "size": {
+        "width": 472,
+        "height": 92
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/research.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "pyx_h03",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 715
+      },
+      "size": {
+        "width": 345,
+        "height": 44
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/h03.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "pyx_card03",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 751
+      },
+      "size": {
+        "width": 800,
+        "height": 475
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/dashboard.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "pyx_h04",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 1234
+      },
+      "size": {
+        "width": 536,
+        "height": 44
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/h04.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "pyx_card04",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 1270
+      },
+      "size": {
+        "width": 800,
+        "height": 418
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/repo-annixion.svg",
+        "mode": "contain",
+        "showTitle": false,
+        "targetUrl": "https://github.com/Pyth3rEx/AnNIXion"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "pyx_h05",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 1696
+      },
+      "size": {
+        "width": 262,
+        "height": 44
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/h05.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "pyx_card05",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 1732
+      },
+      "size": {
+        "width": 800,
+        "height": 445
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/skills.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "pyx_links",
+      "widgetId": "codeweb-social-badge",
+      "position": {
+        "x": 0,
+        "y": 2185
+      },
+      "size": {
+        "width": 800,
+        "height": 40
+      },
+      "config": {
+        "platforms": [
+          "website",
+          "github"
+        ],
+        "renderMode": "multi",
+        "showText": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "pyx_footer",
+      "widgetId": "custom-image",
+      "position": {
+        "x": 0,
+        "y": 2233
+      },
+      "size": {
+        "width": 525,
+        "height": 43
+      },
+      "config": {
+        "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/footer.svg",
+        "mode": "contain",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0E0F13",
+    "borderColor": "#2E323D",
+    "textColor": "#DFE4EA",
+    "accentColor": "#FF0033",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "transparentBackground": false,
+    "templateStyle": "terminal"
+  },
+  "templateId": "pyth3rex-annixion",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1793799666027_bqran",
+    "updatedAt": "2026-11-04T13:41:09.898Z"
+  }
+}
