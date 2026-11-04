@@ -1,0 +1,51 @@
+name: insight cards (AnNIXion)
+
+# Renders the terminal cards in the AnNIXion palette and commits them to the
+# orphan `insight` branch. GitAscii's image widgets point at those raw URLs and
+# inline them on each of its own refreshes, so this runs a little earlier.
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/insight/**", ".github/workflows/insight-cards.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: insight-cards
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install renderer
+        working-directory: .github/insight
+        run: npm install --no-audit --no-fund
+
+      - name: Render cards
+        working-directory: .github/insight
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node render.mjs "${{ github.repository_owner }}" "${{ runner.temp }}/cards"
+
+      - name: Publish to insight branch
+        run: |
+          set -euo pipefail
+          cd "${{ runner.temp }}/cards"
+          git init -q -b insight
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "cards: $(date -u +%F)"
+          git push -f -q "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" insight

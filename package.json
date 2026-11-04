@@ -1,0 +1,8 @@
+{
+  "name": "pyth3rex-insight-cards",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "github-readme-insight-terminal-ascii": "1.3.0"
+  }
+}
