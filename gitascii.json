@@ -356,7 +356,7 @@
     "accentColor": "#FF0033",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "transparentBackground": true,
+    "transparentBackground": false,
     "templateStyle": "terminal",
     "padding": 0,
     "themeMode": "light"
@@ -364,7 +364,7 @@
   "templateId": "pyth3rex-annixion",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793801181682_w2mlq",
-    "updatedAt": "2026-11-04T14:06:24.948Z"
+    "revision": "rev_1793801200890_4lfqh",
+    "updatedAt": "2026-11-04T14:06:43.557Z"
   }
 }
