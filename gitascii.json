@@ -356,15 +356,15 @@
     "accentColor": "#FF0033",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "transparentBackground": false,
+    "transparentBackground": true,
     "templateStyle": "terminal",
     "padding": 0,
-    "themeMode": "dark"
+    "themeMode": "light"
   },
   "templateId": "pyth3rex-annixion",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793800215893_ezht8",
-    "updatedAt": "2026-11-04T13:50:18.960Z"
+    "revision": "rev_1793801181682_w2mlq",
+    "updatedAt": "2026-11-04T14:06:24.948Z"
   }
 }
