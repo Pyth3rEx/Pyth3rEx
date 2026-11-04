@@ -359,12 +359,12 @@
     "transparentBackground": false,
     "templateStyle": "terminal",
     "padding": 0,
-    "themeMode": "light"
+    "themeMode": "dark"
   },
   "templateId": "pyth3rex-annixion",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793801200890_4lfqh",
-    "updatedAt": "2026-11-04T14:06:43.557Z"
+    "revision": "rev_1793801213888_9368u",
+    "updatedAt": "2026-11-04T14:06:56.513Z"
   }
 }
