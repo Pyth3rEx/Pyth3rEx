@@ -15,7 +15,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/mark.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -35,7 +36,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/lockup.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -55,7 +57,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/descriptor.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -75,7 +78,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/about.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -95,7 +99,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/capabilities.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -143,7 +148,8 @@
         "showCommits": true,
         "showFollowers": false,
         "showFollowing": false,
-        "showGists": false
+        "showGists": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -163,7 +169,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/research.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -183,7 +190,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/h03.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -203,7 +211,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/dashboard.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -223,7 +232,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/h04.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -244,7 +254,8 @@
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/repo-annixion.svg",
         "mode": "contain",
         "showTitle": false,
-        "targetUrl": "https://github.com/Pyth3rEx/AnNIXion"
+        "targetUrl": "https://github.com/Pyth3rEx/AnNIXion",
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -264,7 +275,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/h05.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -284,7 +296,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/skills.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -307,7 +320,8 @@
           "github"
         ],
         "renderMode": "multi",
-        "showText": true
+        "showText": true,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -327,7 +341,8 @@
       "config": {
         "imageUrl": "https://raw.githubusercontent.com/Pyth3rEx/Pyth3rEx/insight/footer.svg",
         "mode": "contain",
-        "showTitle": false
+        "showTitle": false,
+        "borderColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -347,7 +362,7 @@
   "templateId": "pyth3rex-annixion",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793799901341_ipke6",
-    "updatedAt": "2026-11-04T13:45:04.817Z"
+    "revision": "rev_1793800013250_g4igo",
+    "updatedAt": "2026-11-04T13:46:57.104Z"
   }
 }
