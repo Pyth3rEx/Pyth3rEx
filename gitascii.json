@@ -335,7 +335,7 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0E0F13",
+    "backgroundColor": "#060606",
     "borderColor": "#2E323D",
     "textColor": "#DFE4EA",
     "accentColor": "#FF0033",
@@ -347,7 +347,7 @@
   "templateId": "pyth3rex-annixion",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793799666027_bqran",
-    "updatedAt": "2026-11-04T13:41:09.898Z"
+    "revision": "rev_1793799901341_ipke6",
+    "updatedAt": "2026-11-04T13:45:04.817Z"
   }
 }
