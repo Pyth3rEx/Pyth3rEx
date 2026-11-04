@@ -357,12 +357,14 @@
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "transparentBackground": false,
-    "templateStyle": "terminal"
+    "templateStyle": "terminal",
+    "padding": 0,
+    "themeMode": "dark"
   },
   "templateId": "pyth3rex-annixion",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793800013250_g4igo",
-    "updatedAt": "2026-11-04T13:46:57.104Z"
+    "revision": "rev_1793800215893_ezht8",
+    "updatedAt": "2026-11-04T13:50:18.960Z"
   }
 }
