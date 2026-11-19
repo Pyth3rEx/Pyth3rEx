@@ -134,7 +134,7 @@
 <text x="12" y="106" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. GitHub: </tspan><tspan fill="#2E323D">................</tspan><tspan fill="#DFE4EA"> github.com/Pyth3rEx</tspan></text>
 <text x="12" y="130" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#2E323D">─</tspan><tspan fill="#FF0033"> GitHub Stats </tspan><tspan fill="#2E323D">───────────────────────────────</tspan></text>
 <text x="12" y="146" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Repos: </tspan><tspan fill="#2E323D">.........</tspan><tspan fill="#FFD000"> 32</tspan><tspan fill="#2E323D"> | </tspan><tspan fill="#7A8494">. Stars: </tspan><tspan fill="#2E323D">.........</tspan><tspan fill="#FFD000"> 29</tspan></text>
-<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Commits: </tspan><tspan fill="#2E323D">...............................</tspan><tspan fill="#FFD000"> 955</tspan></text>
+<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#7A8494">. Commits: </tspan><tspan fill="#2E323D">...............................</tspan><tspan fill="#FFD000"> 970</tspan></text>
   
     </g>
   
@@ -250,11 +250,11 @@
 <text class="p1" x="447.2" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">--*--</text>
 <text class="p1" x="497.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">29</text>
 <text class="p1" x="573.2" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" font-weight="700" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">|  o</text>
-<text class="p1" x="623.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">183</text>
+<text class="p1" x="623.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#F213A0" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">196</text>
 <text class="p1" x="699.2" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">( ! )</text>
-<text class="p1" x="749.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">133</text>
+<text class="p1" x="749.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">137</text>
 <text class="p1" x="833.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">| |</text>
-<text class="p1" x="875.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">911</text>
+<text class="p1" x="875.6" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4A90FF" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">969</text>
 <text class="p1" x="976.4" y="137" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p0" x="44.0" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p0" x="86.0" y="154" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" font-weight="700" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">\ /</text>
@@ -319,21 +319,21 @@
 <text class="p0" x="44.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p0" x="170.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Uptime</text>
 <text class="p0" x="220.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text class="p0" x="262.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0d streak</text>
+<text class="p0" x="262.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3d streak</text>
 <text class="p0" x="422.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p2" x="430.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p2" x="455.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">( ( )</text>
-<text class="p2" x="514.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0 days</text>
+<text class="p2" x="514.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3 days</text>
 <text class="p2" x="598.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" font-weight="700" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">12 days</text>
-<text class="p2" x="707.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁</text>
-<text class="p2" x="716.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▇▄▆▂</text>
-<text class="p2" x="749.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁▁▁▁▁▁▁▁</text>
-<text class="p2" x="825.2" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█▂▆▄</text>
-<text class="p2" x="858.8" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁</text>
-<text class="p2" x="867.2" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▅</text>
-<text class="p2" x="875.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁▁▁▁▁</text>
-<text class="p2" x="926.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▃▃</text>
-<text class="p2" x="942.8" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁</text>
+<text class="p2" x="707.6" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█▇▂</text>
+<text class="p2" x="732.8" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁▁▁▁▁▁▁▁</text>
+<text class="p2" x="808.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">█▂▇▄</text>
+<text class="p2" x="842.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁</text>
+<text class="p2" x="850.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▅</text>
+<text class="p2" x="858.8" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁▁▁▁▁▁</text>
+<text class="p2" x="909.2" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▃▄</text>
+<text class="p2" x="926.0" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▁</text>
+<text class="p2" x="934.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="25.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">▄▇▆</text>
 <text class="p2" x="976.4" y="256" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p0" x="44.0" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p0" x="422.0" y="273" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
@@ -355,8 +355,9 @@
 <text class="p2" x="430.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p2" x="455.6" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" font-weight="700" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[___]</text>
 <text class="p2" x="514.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[</text>
-<text class="p2" x="522.8" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="117.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..............</text>
-<text class="p2" x="640.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">] 0% of best</text>
+<text class="p2" x="522.8" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FFD000" font-weight="700" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">####</text>
+<text class="p2" x="556.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="84.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..........</text>
+<text class="p2" x="640.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">] 25% of best</text>
 <text class="p2" x="976.4" y="290" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p0" x="44.0" y="307" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p0" x="422.0" y="307" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
@@ -387,7 +388,7 @@
 <text class="p3" x="153.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="170.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="186.8" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="203.6" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="203.6" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="220.4" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="237.2" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="254.0" y="375" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
@@ -433,14 +434,14 @@
 <text class="p3" x="354.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="371.6" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="388.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="405.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="405.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="422.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="438.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="455.6" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="472.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="489.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="506.0" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="522.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="522.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="648.8" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="657.2" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="976.4" y="392" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
@@ -457,7 +458,7 @@
 <text class="p3" x="254.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="270.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="287.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="304.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="321.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="338.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="354.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
@@ -466,10 +467,11 @@
 <text class="p3" x="405.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="422.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="438.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="455.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="472.4" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="489.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="506.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="522.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="648.8" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="657.2" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="674.0" y="409" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Python</text>
@@ -490,8 +492,8 @@
 <text class="p3" x="254.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="270.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="287.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="304.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="321.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="304.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="321.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="338.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="354.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="371.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
@@ -499,10 +501,11 @@
 <text class="p3" x="405.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="422.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="438.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="455.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="455.6" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="472.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="489.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="506.0" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="522.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="648.8" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="657.2" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="976.4" y="426" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
@@ -524,7 +527,7 @@
 <text class="p3" x="338.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="354.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="371.6" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="388.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="405.2" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="422.0" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="438.8" y="443" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
@@ -552,20 +555,20 @@
 <text class="p3" x="237.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="254.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="270.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="287.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#FF0033" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="287.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="304.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="321.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="338.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="354.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="371.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="388.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="388.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="405.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="422.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="438.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="455.6" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="472.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="489.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#BD0328" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="506.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="648.8" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="657.2" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="976.4" y="460" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
@@ -594,7 +597,7 @@
 <text class="p3" x="455.6" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="472.4" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="489.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
-<text class="p3" x="506.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
+<text class="p3" x="506.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A0620" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="648.8" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="657.2" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="674.0" y="477" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">HTML</text>
@@ -607,7 +610,7 @@
 <text class="p4" x="657.2" y="494" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p4" x="976.4" y="494" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
 <text class="p3" x="44.0" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">│</text>
-<text class="p3" x="60.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="243.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">448 contributions in 26 weeks</text>
+<text class="p3" x="60.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494" textLength="243.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">506 contributions in 26 weeks</text>
 <text class="p3" x="514.4" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#4B515E" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">less</text>
 <text class="p3" x="556.4" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#1A1D24" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
 <text class="p3" x="564.8" y="511" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#3D0A16" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">■</text>
@@ -626,7 +629,7 @@
 <text class="p4" x="657.2" y="528" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#2E323D" textLength="327.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">└─────────────────────────────────────┘</text>
 <text class="bar" x="44.0" y="545" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#0E0F13" font-weight="700" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[dash]</text>
 <text class="bar" x="102.8" y="545" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#0E0F13" textLength="386.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0:profile* 1:stats  2:streak  3:graph  4:langs</text>
-<text class="bar" x="758.0" y="545" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#0E0F13" textLength="218.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;Pyth3rEx&quot; 11:25 16-Nov-26</text>
+<text class="bar" x="758.0" y="545" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#0E0F13" textLength="218.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&quot;Pyth3rEx&quot; 11:47 18-Nov-26</text>
 </g>
 </svg>
   
@@ -722,13 +725,13 @@
 <text x="68" y="188" font-size="20" font-weight="700" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">Pyth3rEx/</tspan><tspan fill="#FF0033">AnNIXion</tspan></text>
 <text x="872" y="187" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" text-anchor="end"><tspan fill="#FFD000">★ </tspan><tspan fill="#DFE4EA">4</tspan><tspan fill="#7A8494">   forks </tspan><tspan fill="#DFE4EA">1</tspan><tspan fill="#7A8494">   watch </tspan><tspan fill="#DFE4EA">0</tspan></text>
 <text x="68" y="216" font-size="14" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#DFE4EA">Offensive security linux distro based on NixOS and NIX ecosystem</text>
-<text x="68" y="250" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">language:</tspan><tspan x="148" fill="#7A8494">● </tspan><tspan fill="#DFE4EA">Nix 55.5%</tspan></text>
+<text x="68" y="250" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">language:</tspan><tspan x="148" fill="#7A8494">● </tspan><tspan fill="#DFE4EA">Nix 49.3%</tspan></text>
 <text x="336" y="250" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">license:</tspan><tspan x="416" fill="#DFE4EA">GPL-3.0</tspan></text>
 <text x="604" y="250" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">branch:</tspan><tspan x="684" fill="#4A90FF">main</tspan></text>
-<text x="68" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">release:</tspan><tspan x="148" fill="#FF0033">v0.4.3 · 1mo ago</tspan></text>
-<text x="336" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">pushed:</tspan><tspan x="416" fill="#DFE4EA">17h ago</tspan></text>
-<text x="604" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">open:</tspan><tspan x="684" fill="#DFE4EA">30 issues/PRs</tspan></text>
-<text x="68" y="304" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494">commit activity · last 52 weeks · 516 commits</text>
+<text x="68" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">release:</tspan><tspan x="148" fill="#FF0033">v0.5.1 · 1d ago</tspan></text>
+<text x="336" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">pushed:</tspan><tspan x="416" fill="#DFE4EA">38m ago</tspan></text>
+<text x="604" y="272" font-size="13" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace"><tspan fill="#7A8494">open:</tspan><tspan x="684" fill="#DFE4EA">12 issues/PRs</tspan></text>
+<text x="68" y="304" font-size="12" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" fill="#7A8494">commit activity · last 52 weeks · 592 commits</text>
 <rect x="68.0" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
 <rect x="83.5" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
 <rect x="98.9" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
@@ -771,16 +774,16 @@
 <rect x="671.0" y="321" width="13.0" height="21" rx="1.5" fill="#BD0328"/>
 <rect x="686.5" y="319" width="13.0" height="23" rx="1.5" fill="#FF0033"/>
 <rect x="701.9" y="326" width="13.0" height="16" rx="1.5" fill="#BD0328"/>
-<rect x="717.4" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
-<rect x="732.8" y="336" width="13.0" height="6" rx="1.5" fill="#3D0A16"/>
-<rect x="748.3" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
-<rect x="763.8" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
-<rect x="779.2" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
-<rect x="794.7" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="717.4" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
+<rect x="732.8" y="334" width="13.0" height="8" rx="1.5" fill="#3D0A16"/>
+<rect x="748.3" y="334" width="13.0" height="8" rx="1.5" fill="#3D0A16"/>
+<rect x="763.8" y="336" width="13.0" height="6" rx="1.5" fill="#3D0A16"/>
+<rect x="779.2" y="335" width="13.0" height="7" rx="1.5" fill="#3D0A16"/>
+<rect x="794.7" y="327" width="13.0" height="15" rx="1.5" fill="#3D0A16"/>
 <rect x="810.2" y="338" width="13.0" height="4" rx="1.5" fill="#3D0A16"/>
-<rect x="825.6" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
-<rect x="841.1" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
-<rect x="856.5" y="340" width="13.0" height="2" rx="1.5" fill="#1A1D24"/>
+<rect x="825.6" y="327" width="13.0" height="15" rx="1.5" fill="#BD0328"/>
+<rect x="841.1" y="337" width="13.0" height="5" rx="1.5" fill="#3D0A16"/>
+<rect x="856.5" y="328" width="13.0" height="14" rx="1.5" fill="#3D0A16"/>
 </g>
 <g class="line-bottom">
 <text x="44" y="392" font-size="15" font-family="'JetBrains Mono', 'JetBrainsMono Nerd Font', Consolas, Menlo, monospace" xml:space="preserve" textLength="176.40000000000003" lengthAdjust="spacingAndGlyphs"><tspan fill="#FF0033">Pyth3rEx@annixion</tspan><tspan fill="#7EBAE4"> ~ </tspan><tspan fill="#DFE4EA">% </tspan></text>
